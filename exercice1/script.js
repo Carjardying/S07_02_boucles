@@ -13,17 +13,15 @@ for (let index = 0; index < 40; index++) { // J'ai mis index <40 et il m'a conso
 for (let i = 0; i< 100; i++){
   console.log(i)
 }
-
-
 // II - Écris le même compteur avec une boucle WHILE.
 let n = 0;
 while (n<100) {
   console.log(n)
   n++
 }
+// III - Réflexion : Quel type de boucle te semble le plus approprié pour cette application ? 
 
-
-// III - Réflexion : Quel type de boucle te semble le plus approprié pour cette application ?
+// Pour structurer ma pensée et bien voir l'ordre, while me semble mieux car plus simple à comprendre mais for à l'air plus rapide à mettre en place car il prends  prends moins de lignes.
 
 // IV - Ecris un compteur qui affiche tous les nombres de 50 à 99 (avec la boucle de ton choix).
 let compteur = 50;
