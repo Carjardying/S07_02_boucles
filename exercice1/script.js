@@ -32,7 +32,7 @@ while (compteur < 100) {
 }
 
 // V - Ecris un compteur qui affiche tous les nombre de 49 à 1 (avec la boucle de ton choix).
-for(let decompteur = 49 ; decompteur > 0; decompteur--) {
+for(let decompteur = 49 ; decompteur >= 1; decompteur--) {
   console.log(decompteur)
 }
 
